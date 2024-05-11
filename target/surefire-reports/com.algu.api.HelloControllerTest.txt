@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.algu.api.HelloControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.34 s -- in com.algu.api.HelloControllerTest
